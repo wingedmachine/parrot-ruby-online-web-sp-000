@@ -6,6 +6,6 @@ def parrot(input)
     input
   else
     puts "Squawk!"
-    "Squawk!""
+    "Squawk!"
   end
 end
